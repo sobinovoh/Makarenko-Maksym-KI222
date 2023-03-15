@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1678893170 source:d:\labs\bmtp-lab4-makarenko\bmtp-lab8-makarenko\main.cpp
+	<iostream>
+	"ModulesMakarenko.h"
+
+1678893275 d:\labs\bmtp-lab4-makarenko\bmtp-lab8-makarenko\modulesmakarenko.h
+	<iostream>
+	<cmath>
+
+1678895924 source:c:\users\777\makarenko-maksym-ki222\lab08\prj\makarenko_task\main.cpp
+	<iostream>
+	"C:\Users\777\Makarenko-Maksym-KI222\lab08\prj\ModulesMakarenko.h"
+
+1678895160 c:\users\777\makarenko-maksym-ki222\lab08\prj\modulesmakarenko.h
+	<iostream>
+	<cmath>
+
