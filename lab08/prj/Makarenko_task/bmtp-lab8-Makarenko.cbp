@@ -31,8 +31,12 @@
 		<Compiler>
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
+			<Add directory="../../prj" />
 		</Compiler>
-		<Unit filename="C:/Users/777/Makarenko-Maksym-KI222/lab08/prj/ModulesMakarenko.h" />
+		<Linker>
+			<Add directory="../ModulesMakarenko" />
+		</Linker>
+		<Unit filename="../ModulesMakarenko.h" />
 		<Unit filename="ModulesMakarenko.h">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
